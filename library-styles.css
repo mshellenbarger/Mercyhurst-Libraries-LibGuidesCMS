@@ -45,8 +45,8 @@ body {
 /*modifies menu text by hamburger menu, mobile view*/
 #menu-text {
 	padding-right: 5px; 
-        padding-left: 5px;
-	font-size: 10px;
+    padding-left: 5px;
+	font-size: 0px;
   	font-family: 'Roboto Condensed', sans-serif;
   	color: #FFFFFF;
 	} 
